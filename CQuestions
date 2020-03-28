@@ -5,11 +5,15 @@ Q: What are value types?
 Q: What are reference types?
      A value of reference type is a reference to another value or object.
 Q: What is an automatic property and how is it useful?
-    
+    An automatic property is a property that you don't need get set logic to run. It uses less code and therefore easier to understand.
 Q: What is the purpose of using statement?
+    it allows you to state where varibles are used in scope, making it easier to manage. 
 Q: What are dynamic type variables?
+    They are varibles that are given addresses at compile time, which differs from a static varibles.
 Q: What is the purpose of the is operator?
+    It checks if the result of an expression is compatible with a given type
 Q: What are generics and how is using them useful?
+    Allows you to write code which are type-safe for example, a List that is of type string is guaranteed to be a list of strings. You couldn't put an int in there.
 Q: What is the scope of a public member of a class?
 Q: Can you create a function that can accept a varying number of arguments?
 Q: How do you sort an array?
