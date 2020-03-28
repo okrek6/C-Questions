@@ -36,9 +36,6 @@ Q: What is the difference between continue and break statements?
     Continue follows down the stack where break usually breaks out of a loop statement entirely. 
 Q: What is this and how is it used?
        this referes to an object of itself. Used to return itself from a method or function.
-Q: What is try and catch and when are they used?
-Q: How is exception handling done?
-Q: What is finally and what is its purpose?
 Q: List the differences between Array and ArrayList.
      Array is a fixed length data structure while ArrayList has a variable length
 Q: What is an object?
