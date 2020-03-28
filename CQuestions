@@ -1,8 +1,11 @@
 Q: What is a namespace?
-    
+    Allows objects or varibles to be referenced in code by name, rather than by location in the program.
 Q: What are value types?
+    The value of value type is the actual value, with no reference to it.
 Q: What are reference types?
+     A value of reference type is a reference to another value or object.
 Q: What is an automatic property and how is it useful?
+    
 Q: What is the purpose of using statement?
 Q: What are dynamic type variables?
 Q: What is the purpose of the is operator?
