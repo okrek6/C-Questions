@@ -15,29 +15,46 @@ Q: What is the purpose of the is operator?
 Q: What are generics and how is using them useful?
     Allows you to write code which are type-safe for example, a List that is of type string is guaranteed to be a list of strings. You couldn't put an int in there.
 Q: What is the scope of a public member of a class?
+    You can access it on all levels of a stack.
 Q: Can you create a function that can accept a varying number of arguments?
+    Yes, using the prams keyword in a function declaration. 
 Q: How do you sort an array?
-Q: What is a nullable type and what purpose does it serve?
+    You can sort an array using the .Sort() function
 Q: What is an enumeration?
+    a complete, ordered listing of all the items in a collection. These items could be elements, members, enumeral, or enumerators of the type
 Q: What is inheritance?
+    inheritance is the practice of basing an object or class upon another object or class in your program.
 Q: Is multiple inheritance supported?
+    Yes, but it isn't recommended. 
 Q: What is the purpose of as operator
+    it makes conversions with compatible types, like int and string.
 Q: What is an object?
+     is anything that can have value in memory and is referenced by an identifier.
 Q: What is the difference between a struct and a class?
+    Class can create a subclass that will inherit parent's properties and methods, but Structa do not support inheritance like class. 
 Q: What is the difference between continue and break statements?
+    Continue follows down the stack where break usually breaks out of a loop statement entirely. 
 Q: What is this and how is it used?
+       this referes to an object of itself. Used to return itself from a method or function.
 Q: What is try and catch and when are they used?
 Q: How is exception handling done?
 Q: What is finally and what is its purpose?
 Q: List the differences between Array and ArrayList.
+     Array is a fixed length data structure while ArrayList has a variable length
 Q: What is an object?
+   in OOP can be a combination of variables, functions, and data structures.
 Q: Define constructor.
+    Often used to initalize a class or structure before being used.
 Q: When can var be used to declare a variable and how is the type for the variable determined?
 Q: What is an abstract class?
-Q: What is an interface?
+    An abstract method is a method that is declared, but contains no implementation
 Q: What is a method?
+     methods are groups of statements that together perform a task
 Q: What is a property?
-Q: What is an access specifier?
+    allow you to control the accessibility of a class's variables
 Q: What access specifiers are supported and what do they mean?
+    public, private , protected , internal and protected internal.  
 Q: What is a collection?
+    specialized classes for data storage and retrieval that can be used for Hash tables for example.
 Q: What is a Hash Table?
+    used to store key-value items that relate to one another. 
